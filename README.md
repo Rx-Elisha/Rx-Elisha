@@ -27,9 +27,6 @@ My work focuses on building models, visualizing data, and providing insights tha
 - Other Tools**: Jupyter Notebook, Git, Excel
 
 
- Learning & Growth
-I’m constantly learning to improve my data analysis skills. Here are some of the resources I’m exploring.
-
  Get In Touch
 
 📧 Email: odugbo247@gmail.com  
